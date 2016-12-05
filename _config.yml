@@ -1,5 +1,5 @@
 # Site settings
-title: Rokia's Git Site
+title: Levis's Git Site
 header-img: "img/meditations_1.jpg"
 tagline: "cn"  
 description: "levis"  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "rokia"
+      author: "levis"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
