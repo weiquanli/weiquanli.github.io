@@ -2,15 +2,15 @@
 title: Rokia's Git Site
 header-img: "img/meditations_1.jpg"
 tagline: "cn"  
-description: "rokia"  
+description: "levis"  
 baseurl: ""
-url: "http://zhichaoluo.github.io"  
+url: "http://weiquanli.github.io"  
 
 # About/contact
 owner: 
-  name: " zhichaoluo"
-  email: "1814347@qq.com"
-  bio: "数据科学爱好者，主要兴趣为数据分析、数据挖掘、R语言开发、量化投资、电力营销数据分析。"
+  name: " weiquanli"
+  email: "313248548@qq.com"
+  bio: "关于我"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
