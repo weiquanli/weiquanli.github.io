@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-description: "rokia"
+description: "levis"
 header-img: "img/"
 ---
 
